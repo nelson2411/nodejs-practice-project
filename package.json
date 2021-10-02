@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-practice-project",
+  "version": "1.0.0",
+  "description": "Project created based on node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelson2411/nodejs-practice-project.git"
+  },
+  "author": "Nelson Rosales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelson2411/nodejs-practice-project/issues"
+  },
+  "homepage": "https://github.com/nelson2411/nodejs-practice-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
